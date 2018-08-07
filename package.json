@@ -1,6 +1,6 @@
 {
-  "name": "loopback-component-storage-mongo-gridfs",
-  "version": "1.2.1",
+  "name": "loopback-component-storage-mongo-gridfs-nop0x",
+  "version": "1.2.5",
   "description": "loopback storage mongo gridfs component",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Herbecon System S.L. (desarrollo@herbecon.es)",
+  "author": "Nop0x",
   "license": "ISC",
   "dependencies": {
     "busboy": "^0.2.14",
